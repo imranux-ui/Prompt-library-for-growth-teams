@@ -1,11 +1,11 @@
-# WF-06 — Multi-Channel Content Distribution
-# Phase: EXECUTE
-# Version: 1.0
+## WF-06 — Multi-Channel Content Distribution
+### Phase: EXECUTE
+### Version: 1.0
 #
-# TRIGGER: Every time a new long-form piece is published
-# OUTPUT:  5 channel-specific content pieces ready to schedule
-# TIME:    30 min per article
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: Every time a new long-form piece is published
+### OUTPUT:  5 channel-specific content pieces ready to schedule
+### TIME:    30 min per article
+##### ──────────────────────────────────────────────────────────────
 
 ## Step 1 — Human: Confirm Publish + Share URL
 Confirm the article is live and indexed. Share the URL with the ops team.
