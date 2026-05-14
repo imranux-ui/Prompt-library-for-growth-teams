@@ -1,10 +1,10 @@
-# Prompt 12 — Monthly Growth Report Narrator
-# Phase: COMPOUND
-# Version: 1.0
+## Prompt 12 — Monthly Growth Report Narrator
+### Phase: COMPOUND
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + raw data from GA4, GSC, and CRM for the month
-# OUTPUT:   Client-ready executive narrative in GrowthX report structure
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT + raw data from GA4, GSC, and CRM for the month
+### OUTPUT:   Client-ready executive narrative in GrowthX report structure
+##### ─────────────────────────────────────────────────────────────────────
 
 ## Task
 
