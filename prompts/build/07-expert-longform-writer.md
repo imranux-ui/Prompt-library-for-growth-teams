@@ -1,10 +1,10 @@
-# Prompt 07 — Expert Long-Form Article Writer
-# Phase: BUILD
-# Version: 1.0
+## Prompt 07 — Expert Long-Form Article Writer
+### Phase: BUILD
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + a completed content brief (from Prompt 06 or similar)
+### REQUIRES: CLIENT_CONTEXT + a completed content brief (from Prompt 06 or similar)
 # OUTPUT:   Full draft article with all GEO patterns applied
-# ─────────────────────────────────────────────────────────────────────
+#### ──────────────────────────────────────────────────────────────
 
 ## Task
 
