@@ -1,11 +1,11 @@
-# WF-01 — Client Onboarding → Strategy Sprint
-# Phase: STRATEGY
-# Version: 1.0
+## WF-01 — Client Onboarding → Strategy Sprint
+### Phase: STRATEGY
+### Version: 1.0
 #
-# TRIGGER: New client signed. Use in the first 2 weeks of an engagement.
-# OUTPUT:  90-day content plan + keyword map + AI visibility baseline
-# TIME:    ~3–4 hours total (human + AI combined)
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: New client signed. Use in the first 2 weeks of an engagement.
+### OUTPUT:  90-day content plan + keyword map + AI visibility baseline
+### TIME:    ~3–4 hours total (human + AI combined)
+### ─────────────────────────────────────────────────────────────────────
 
 ## Overview
 
