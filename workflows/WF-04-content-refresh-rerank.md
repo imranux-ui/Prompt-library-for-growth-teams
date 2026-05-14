@@ -1,11 +1,11 @@
-# WF-04 — Content Refresh + Re-rank System
-# Phase: EXECUTE → COMPOUND
-# Version: 1.0
+## WF-04 — Content Refresh + Re-rank System
+### Phase: EXECUTE → COMPOUND
+### Version: 1.0
 #
-# TRIGGER: GSC shows a page dropping from top-10 or losing >20% clicks MoM
-# OUTPUT:  Refreshed article re-published with improved rankings trajectory
-# TIME:    ~2 hours per page refresh (human + AI)
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: GSC shows a page dropping from top-10 or losing >20% clicks MoM
+### OUTPUT:  Refreshed article re-published with improved rankings trajectory
+### TIME:    ~2 hours per page refresh (human + AI)
+###### ─────────────────────────────────────────────────────────────────────
 
 ## Overview
 
