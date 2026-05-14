@@ -1,10 +1,10 @@
-# Prompt 13 — Case Study Pipeline Miner
-# Phase: COMPOUND
-# Version: 1.0
+## Prompt 13 — Case Study Pipeline Miner
+### Phase: COMPOUND
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + raw interview notes, Slack messages, or data points
-# OUTPUT:   Polished GrowthX-style case study draft (600–1,200 words)
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT + raw interview notes, Slack messages, or data points
+### OUTPUT:   Polished GrowthX-style case study draft (600–1,200 words)
+##### ──────────────────────────────────────────────
 
 ## Task
 
