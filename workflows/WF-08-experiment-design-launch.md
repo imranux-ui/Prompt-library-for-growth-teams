@@ -1,11 +1,11 @@
-# WF-08 — Experiment Design + Launch
-# Phase: COMPOUND
-# Version: 1.0
+## WF-08 — Experiment Design + Launch
+### Phase: COMPOUND
+### Version: 1.0
 #
-# TRIGGER: Monthly, after reviewing report. When you want to test a new
+### TRIGGER: Monthly, after reviewing report. When you want to test a new
 #          content angle, format, or programmatic play.
-# OUTPUT:  Scoped experiment with hypothesis, content, and success metrics
-# TIME:    1–2 hours to design; 30 days to read results
+### OUTPUT:  Scoped experiment with hypothesis, content, and success metrics
+### TIME:    1–2 hours to design; 30 days to read results
 # ─────────────────────────────────────────────────────────────────────
 
 ## Overview
