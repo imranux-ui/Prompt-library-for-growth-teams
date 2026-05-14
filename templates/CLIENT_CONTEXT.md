@@ -32,30 +32,30 @@ CLIENT_VOICE:
   cta_style:      ""             # e.g. "soft ask", "direct CTA", "community invite"
   sample_urls:    []             # 2–3 URLs of existing content that exemplifies their voice
 
-# ─────────────────────────────────────────────────────────────────────
-# EXAMPLE (filled in for a fictional client — delete before use)
-# ─────────────────────────────────────────────────────────────────────
+##### ─────────────────────────────────────────────────────────────────────
+### EXAMPLE (filled in for a fictional client — delete before use)
+##### ─────────────────────────────────────────────────────────────────────
 #
-# CLIENT_CONTEXT:
-#   client_name:         "Discern"
-#   website_url:         "https://discernhealth.com"
-#   product_category:    "Healthcare revenue cycle analytics"
-#   icp_role:            "VP of Revenue Cycle at health systems with 200+ beds"
-#   icp_pain:            "Can't see which claims are at risk before they deny"
-#   primary_competitors: ["Waystar", "Optum360", "Availity"]
-#   current_da:          "28"
-#   monthly_sessions:    "4,200"
-#   conversion_goal:     "book a demo"
-#   content_team_size:   "0 in-house + GrowthX team"
-#   phase:               "Build"
-#   current_top_pages:   ["https://discernhealth.com/blog/claim-denial-rates"]
-#   target_verticals:    ["health systems", "physician groups", "ASCs"]
+#### CLIENT_CONTEXT:
+####   client_name:         "Discern"
+####   website_url:         "https://discernhealth.com"
+####   product_category:    "Healthcare revenue cycle analytics"
+####   icp_role:            "VP of Revenue Cycle at health systems with 200+ beds"
+####   icp_pain:            "Can't see which claims are at risk before they deny"
+####   primary_competitors: ["Waystar", "Optum360", "Availity"]
+####   current_da:          "28"
+####   monthly_sessions:    "4,200"
+####   conversion_goal:     "book a demo"
+####   content_team_size:   "0 in-house + GrowthX team"
+####   phase:               "Build"
+####   current_top_pages:   ["https://discernhealth.com/blog/claim-denial-rates"]
+####   target_verticals:    ["health systems", "physician groups", "ASCs"]
 #
-# CLIENT_VOICE:
-#   tone:           "straightforward and data-driven, never condescending"
-#   pov:            "operator — we've worked inside rev cycle teams"
-#   avoid:          ["unlock", "game-changer", "seamless", "end-to-end solution"]
-#   prefer:         ["denial rate", "clean claims", "days in AR", "first-pass yield"]
-#   sentence_len:   "short"
-#   cta_style:      "direct CTA"
-#   sample_urls:    ["https://discernhealth.com/blog/denial-management-strategy"]
+#### CLIENT_VOICE:
+####   tone:           "straightforward and data-driven, never condescending"
+####   pov:            "operator — we've worked inside rev cycle teams"
+####   avoid:          ["unlock", "game-changer", "seamless", "end-to-end solution"]
+####   prefer:         ["denial rate", "clean claims", "days in AR", "first-pass yield"]
+####   sentence_len:   "short"
+####   cta_style:      "direct CTA"
+####   sample_urls:    ["https://discernhealth.com/blog/denial-management-strategy"]
