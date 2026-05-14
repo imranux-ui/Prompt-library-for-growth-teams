@@ -1,10 +1,10 @@
-# WF-03 — GEO Monitoring + Response Loop
-# Phase: EXECUTE → COMPOUND
-# Version: 1.0
+## WF-03 — GEO Monitoring + Response Loop
+### Phase: EXECUTE → COMPOUND
+### Version: 1.0
 #
-# TRIGGER: Run weekly (every Monday). Takes ~45 min once set up.
-# OUTPUT:  LLM citation delta report + prioritized content action list
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: Run weekly (every Monday). Takes ~45 min once set up.
+### OUTPUT:  LLM citation delta report + prioritized content action list
+###### ─────────────────────────────────────────────────────────────────────
 
 ## Overview
 
