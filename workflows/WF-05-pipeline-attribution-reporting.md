@@ -1,10 +1,10 @@
-# WF-05 — Pipeline Attribution Reporting
-# Phase: COMPOUND
-# Version: 1.0
+## WF-05 — Pipeline Attribution Reporting
+### Phase: COMPOUND
+### Version: 1.0
 #
-# TRIGGER: Monthly, before client MBR or growth review
-# OUTPUT:  Executive narrative + pipeline attribution summary for MBR deck
-# TIME:    ~1.5 hours (human data pull + Claude narrative)
+### TRIGGER: Monthly, before client MBR or growth review
+### OUTPUT:  Executive narrative + pipeline attribution summary for MBR deck
+### TIME:    ~1.5 hours (human data pull + Claude narrative)
 # ─────────────────────────────────────────────────────────────────────
 
 ## Step 1 — Human: Pull the Data
