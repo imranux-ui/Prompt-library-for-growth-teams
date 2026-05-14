@@ -1,11 +1,11 @@
-# Prompt 02 — GEO (Generative Engine Optimization) Audit
-# Phase: STRATEGY
-# Version: 1.0
+## Prompt 02 — GEO (Generative Engine Optimization) Audit
+### Phase: STRATEGY
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT loaded + a URL or article text to audit
-# INPUT:    Paste the URL or full article text below the dashes
-# OUTPUT:   Scored GEO Audit Report (format per SYSTEM_PROMPT Section 5.3)
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT loaded + a URL or article text to audit
+### INPUT:    Paste the URL or full article text below the dashes
+### OUTPUT:   Scored GEO Audit Report (format per SYSTEM_PROMPT Section 5.3)
+##### ───────────────────────────────────────────────────────────
 
 ## Task
 
