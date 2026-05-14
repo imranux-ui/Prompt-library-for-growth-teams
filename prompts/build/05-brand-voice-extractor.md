@@ -1,9 +1,9 @@
-# Prompt 05 — Brand Voice Extractor
-# Phase: BUILD
-# Version: 1.0
+## Prompt 05 — Brand Voice Extractor
+### Phase: BUILD
+### Version: 1.0
 #
-# REQUIRES: 3–5 samples of the client's existing content (URLs or pasted text)
-# OUTPUT:   Filled CLIENT_VOICE block ready to copy into CLIENT_CONTEXT.md
+### REQUIRES: 3–5 samples of the client's existing content (URLs or pasted text)
+### OUTPUT:   Filled CLIENT_VOICE block ready to copy into CLIENT_CONTEXT.md
 # ─────────────────────────────────────────────────────────────────────
 
 ## Task
