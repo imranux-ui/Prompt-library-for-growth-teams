@@ -1,11 +1,11 @@
-# WF-07 — Expert Review Quality Gate
-# Phase: BUILD → EXECUTE
-# Version: 1.0
+## WF-07 — Expert Review Quality Gate
+### Phase: BUILD → EXECUTE
+### Version: 1.0
 #
-# TRIGGER: Any AI-generated draft before human approval to publish
-# OUTPUT:  Reviewed, flagged, and approved draft ready for publish
-# TIME:    15–20 min per article
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: Any AI-generated draft before human approval to publish
+### OUTPUT:  Reviewed, flagged, and approved draft ready for publish
+### TIME:    15–20 min per article
+### ────────────────────────────────────────────────────
 
 ## Overview
 
