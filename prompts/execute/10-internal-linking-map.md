@@ -1,9 +1,9 @@
-# Prompt 10 — Internal Linking Map Builder
-# Phase: EXECUTE
-# Version: 1.0
+## Prompt 10 — Internal Linking Map Builder
+### Phase: EXECUTE
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + list of published URLs with their target keywords
-# OUTPUT:   Internal linking recommendations with anchor text, organized by cluster
+### REQUIRES: CLIENT_CONTEXT + list of published URLs with their target keywords
+### OUTPUT:   Internal linking recommendations with anchor text, organized by cluster
 # ─────────────────────────────────────────────────────────────────────
 
 ## Task
