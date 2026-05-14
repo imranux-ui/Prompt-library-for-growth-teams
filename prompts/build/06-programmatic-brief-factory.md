@@ -1,10 +1,10 @@
-# Prompt 06 — Programmatic Brief Factory
-# Phase: BUILD
-# Version: 1.0
+## Prompt 06 — Programmatic Brief Factory
+### Phase: BUILD
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + a seed keyword pattern + entity list
-# OUTPUT:   Batch of content briefs (one per entity) in standard format
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT + a seed keyword pattern + entity list
+### OUTPUT:   Batch of content briefs (one per entity) in standard format
+#### ─────────────────────────────────────────
 
 ## Task
 
