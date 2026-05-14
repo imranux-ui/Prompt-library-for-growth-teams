@@ -1,10 +1,10 @@
-# Prompt 09 — Content-to-Pipeline Qualifier
-# Phase: EXECUTE
-# Version: 1.0
+## Prompt 09 — Content-to-Pipeline Qualifier
+### Phase: EXECUTE
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + article draft or live URL
-# OUTPUT:   Revised article with strengthened bottom-of-funnel conversion signals
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT + article draft or live URL
+### OUTPUT:   Revised article with strengthened bottom-of-funnel conversion signals
+###### ─────────────────────────────────────────────────
 
 ## Task
 
