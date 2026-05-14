@@ -1,6 +1,6 @@
-# Example: Completed Content Brief Output
-# Generated using: Prompt 01 (SEO Opportunity Brief) → Prompt 06 (Brief Factory)
-# This is a sample output to show what a finished brief looks like.
+## Example: Completed Content Brief Output
+### Generated using: Prompt 01 (SEO Opportunity Brief) → Prompt 06 (Brief Factory)
+#### This is a sample output to show what a finished brief looks like.
 # ─────────────────────────────────────────────────────────────────────
 
 ---
