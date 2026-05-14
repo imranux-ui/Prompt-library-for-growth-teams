@@ -1,10 +1,10 @@
-# Prompt 08 — LLM Citation Booster
-# Phase: BUILD
-# Version: 1.0
+## Prompt 08 — LLM Citation Booster
+### Phase: BUILD
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + existing article (URL or text) + GEO audit score
-# OUTPUT:   Rewritten or augmented sections that increase LLM citation probability
-# ─────────────────────────────────────────────────────────────────────
+### REQUIRES: CLIENT_CONTEXT + existing article (URL or text) + GEO audit score
+### OUTPUT:   Rewritten or augmented sections that increase LLM citation probability
+###### ──────────────────────────────────────────────────────────
 
 ## Task
 
