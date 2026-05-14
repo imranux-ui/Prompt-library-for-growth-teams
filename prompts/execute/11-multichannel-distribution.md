@@ -1,9 +1,9 @@
-# Prompt 11 — Multi-Channel Distribution Repurposer
-# Phase: EXECUTE
-# Version: 1.0
+## Prompt 11 — Multi-Channel Distribution Repurposer
+### Phase: EXECUTE
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT + a published long-form article (URL or text)
-# OUTPUT:   5 channel-specific content pieces derived from the article
+### REQUIRES: CLIENT_CONTEXT + a published long-form article (URL or text)
+### OUTPUT:   5 channel-specific content pieces derived from the article
 # ─────────────────────────────────────────────────────────────────────
 
 ## Task
