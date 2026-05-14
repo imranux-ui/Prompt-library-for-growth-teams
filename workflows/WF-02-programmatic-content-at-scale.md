@@ -1,11 +1,11 @@
-# WF-02 — Programmatic Content at Scale
-# Phase: BUILD → EXECUTE
-# Version: 1.0
+## WF-02 — Programmatic Content at Scale
+### Phase: BUILD → EXECUTE
+### Version: 1.0
 #
-# TRIGGER: A programmatic keyword play has been approved in the 90-day plan.
-# OUTPUT:  Published batch of unique, quality-gated programmatic pages
-# TIME:    ~2–3 hours per batch of 10 pages (human + AI combined)
-# ─────────────────────────────────────────────────────────────────────
+### TRIGGER: A programmatic keyword play has been approved in the 90-day plan.
+### OUTPUT:  Published batch of unique, quality-gated programmatic pages
+### TIME:    ~2–3 hours per batch of 10 pages (human + AI combined)
+##### ─────────────────────────────────────────────────────────────────────
 
 ## Overview
 
