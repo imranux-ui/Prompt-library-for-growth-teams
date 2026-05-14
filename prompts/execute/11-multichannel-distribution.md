@@ -4,7 +4,7 @@
 #
 ### REQUIRES: CLIENT_CONTEXT + a published long-form article (URL or text)
 ### OUTPUT:   5 channel-specific content pieces derived from the article
-# ───────────────────────────────────────────────
+##### ───────────────────────────────────────
 
 ## Task
 
