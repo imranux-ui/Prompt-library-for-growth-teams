@@ -1,10 +1,10 @@
-# Prompt 01 — SEO Opportunity Brief Generator
-# Phase: STRATEGY
-# Version: 1.0
+## Prompt 01 — SEO Opportunity Brief Generator
+### Phase: STRATEGY
+### Version: 1.0
 #
-# REQUIRES: CLIENT_CONTEXT loaded in this session
-# INPUT:    Paste your inputs below the dashes, then send to Claude
-# OUTPUT:   Keyword Opportunity Brief (format per SYSTEM_PROMPT Section 5.1)
+### REQUIRES: CLIENT_CONTEXT loaded in this session
+### INPUT:    Paste your inputs below the dashes, then send to Claude
+### OUTPUT:   Keyword Opportunity Brief (format per SYSTEM_PROMPT Section 5.1)
 # ─────────────────────────────────────────────────────────────────────
 
 ## Task
