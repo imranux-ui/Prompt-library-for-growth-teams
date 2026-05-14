@@ -77,10 +77,10 @@ CTA:              "See how Discern flags at-risk claims before they deny →
 GEO SCORE TARGET: ≥13/16 (high-priority bottom-funnel page)
 
 ---
-# Notes for writer:
-# - The comparison table is the most important section for [B] intent.
-#   Make it honest — include Discern's limitations alongside competitors'.
-#   Buyers trust tables that show trade-offs.
-# - "Denial Intelligence Loop" is a proposed named framework — flag for
-#   client approval before publishing.
-# - [STAT NEEDED] tags must be resolved before publish. Do not invent numbers.
+### Notes for writer:
+#### - The comparison table is the most important section for [B] intent.
+####   Make it honest — include Discern's limitations alongside competitors'.
+####   Buyers trust tables that show trade-offs.
+#### - "Denial Intelligence Loop" is a proposed named framework — flag for
+####   client approval before publishing.
+#### - [STAT NEEDED] tags must be resolved before publish. Do not invent numbers.
