@@ -157,6 +157,3 @@ When updating any file in this repo:
 
 ---
 
-## License
-
-Internal GrowthX use. Not for redistribution.
