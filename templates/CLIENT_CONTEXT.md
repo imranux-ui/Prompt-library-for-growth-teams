@@ -1,12 +1,12 @@
 # CLIENT_CONTEXT — Fill this per client before any GrowthX task
-# Version: 1.0
+### Version: 1.0
 #
-# HOW TO USE:
-#   1. Duplicate this file and rename it: CLIENT_CONTEXT_[clientname].md
-#   2. Fill in every field below
-#   3. Paste the filled block at the top of your first Claude message
-#      in any session. This is the only thing that changes between clients.
-# ─────────────────────────────────────────────────────────────────────
+### HOW TO USE:
+####   1. Duplicate this file and rename it: CLIENT_CONTEXT_[clientname].md
+####   2. Fill in every field below
+####   3. Paste the filled block at the top of your first Claude message
+####      in any session. This is the only thing that changes between clients.
+##### ─────────────────────────────────────────────────────────────────────
 
 CLIENT_CONTEXT:
   client_name:         ""        # e.g. "Abnormal AI"
