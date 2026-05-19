@@ -2,7 +2,7 @@
 
 > Expert-led, AI-powered organic growth — operationalized in Claude.
 
-This repository contains the prompt library, workflow blueprints, and Claude skill that power GrowthX's content system. Everything here is designed to run inside Claude (claude.ai Projects or the Anthropic API) and produces GrowthX-quality output without re-explaining methodology every time.
+This repository contains the prompt library, workflow blueprints, and Claude skill that power the startup's content system. Everything here is designed to run inside Claude (claude.ai Projects or the Anthropic API) and produces high-quality output without re-explaining methodology every time.
 
 ---
 
